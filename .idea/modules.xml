@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomMap.iml" filepath="$PROJECT_DIR$/CustomMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cartoonmaplibrary/cartoonmaplibrary.iml" filepath="$PROJECT_DIR$/cartoonmaplibrary/cartoonmaplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

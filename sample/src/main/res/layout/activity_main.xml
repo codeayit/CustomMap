@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ayit.custommap.MainActivity">
+
+    <com.ayit.cartoonmaplibrary.map.view.MapView
+        android:id="@+id/map_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg_map">
+
+        <com.ayit.cartoonmaplibrary.map.view.MapButton
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="130dp"
+            android:id="@+id/map_btn"
+            android:layout_width="80dp"
+            android:layout_height="80dp"/>
+    </com.ayit.cartoonmaplibrary.map.view.MapView>
+
+</RelativeLayout>
